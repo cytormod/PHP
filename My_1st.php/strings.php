@@ -8,9 +8,9 @@
 </head>
 <body>
     <?php
-    error_reporting(E_ALL);
-    ini_set('display_errors', 1);
-    phpinfo();
+    // error_reporting(E_ALL);
+    // ini_set('display_errors', 1);
+    // phpinfo();
 
     $string = "Hello World!";
     echo strlen($string);//Length of the string
